@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/taskflow-114435-f90b217a/react_js_frontend_workspace/react_js_frontend"
+}
